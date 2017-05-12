@@ -675,6 +675,8 @@ public class Interfaz2 extends javax.swing.JFrame {
                 Interfaz3 Interfaz = new Interfaz3();
                 Interfaz.setVisible(true);
                 this.dispose();
+                
+                //prueba
         }
         
         if(game.hasWon()){
